@@ -18,7 +18,7 @@ $ curl -s "https://get.sdkman.io" | bash
 $ sdk list java | less
 ```
 
-Após digitar o comando acima, aparecerá em seu terminal várias versões do Java e vários pacotes de versões do Java compilados por empresas, copie e cole em eu terminal a versão 11.0.8.hs-adpt da  AdoptOpenJDK :
+Após digitar o comando acima, aparecerá em seu terminal várias versões do Java e vários pacotes de versões do Java compilados por empresas, copie e cole em seu terminal a versão 11.0.8.hs-adpt da  AdoptOpenJDK :
 
 ![](https://github.com/lipegomes/tutorial-preparando-ambiente-java-no-linux/blob/master/sdk-java.png)
 
@@ -28,7 +28,7 @@ Após digitar o comando acima, aparecerá em seu terminal várias versões do Ja
 $ sdk install java 11.0.8.hs-adpt
 ```
 
-1.5 - Após instalação da versão 11 do Java, verifique a  versão instalada com o comando abaixo:
+1.5 - Após instalação da versão 11 do Java, verifique a versão instalada com o comando abaixo:
 
 ```bash
 $ java --version
