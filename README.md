@@ -20,7 +20,7 @@ $ sdk list java | less
 
 Após digitar o comando acima, aparecerá em seu terminal várias versões do Java e vários pacotes de versões do Java compilados por empresas, copie o a versão 11.0.8.hs-adpt da  AdoptOpenJDK :
 
-![](https://github.com/lipegomes/tutorial-preparando-ambiente-java-no-linux/blob/master/maven-install.png)
+![](https://github.com/lipegomes/tutorial-preparando-ambiente-java-no-linux/blob/master/sdk-java.png)
 
 1.4 - Instale a versão 11 AdoptOpenJDK do Java com o comando abaixo:
 
