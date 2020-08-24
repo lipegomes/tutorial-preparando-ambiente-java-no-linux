@@ -20,7 +20,7 @@ $ sdk list java | less
 
 Após digitar o comando acima, aparecerá em seu terminal várias versões do Java e vários pacotes de versões do Java compilados por empresas, copie o a versão 11.0.8.hs-adpt da  AdoptOpenJDK :
 
-![](/media/filipe/Arquivos/0-Dev/4-Tutoriais/tutorial-preparando-ambiente-java-no-linux/sdk-java.png)
+![](https://github.com/lipegomes/tutorial-preparando-ambiente-java-no-linux/blob/master/maven-install.png)
 
 1.4 - Instale a versão 11 AdoptOpenJDK do Java com o comando abaixo:
 
@@ -52,7 +52,7 @@ OpenJDK 64-Bit Server VM AdoptOpenJDK (build 11.0.8+10, mixed mode)
 $ sdk list maven
 ```
 
-![](/media/filipe/Arquivos/0-Dev/4-Tutoriais/tutorial-preparando-ambiente-java-no-linux/sdk-maven-list.png)
+![](https://github.com/lipegomes/tutorial-preparando-ambiente-java-no-linux/blob/master/sdk-maven-list.png)
 
 2.2 - Instale a versão mais recente do Maven, após conferir com o comando  **sdk list maven** as versões. Utilize o comando abaixo:
 
@@ -63,7 +63,7 @@ $ sdk install maven 3.6.3
 2.3 - Após a instalação do Maven, utilize o comando abaixo para definir a versão do Maven instalada para uso.
 Geralmente o instalador configura a primeira versão instalada do Maven como  podemos observar na imagem abaixo:
 
-![](/media/filipe/Arquivos/0-Dev/4-Tutoriais/tutorial-preparando-ambiente-java-no-linux/maven-install.png)
+![](https://github.com/lipegomes/tutorial-preparando-ambiente-java-no-linux/blob/master/maven-install.png)
 
 Porém, por motivo de aprendizado, utilize o comando abaixo para definir a versão do Maven instalada ou para versões diferentes se desejar utilizar mais de uma versão:
 
@@ -73,7 +73,7 @@ $ sdk use maven 3.6.3
 
 Após utilizar o comando acima, irá aparecer a confirmação em seu terminal com o número da versão utilizada:
 
-![](/media/filipe/Arquivos/0-Dev/4-Tutoriais/tutorial-preparando-ambiente-java-no-linux/sdk-maven-use.png)
+![](https://github.com/lipegomes/tutorial-preparando-ambiente-java-no-linux/blob/master/sdk-maven-use.png)
 
 2.4 - Verifique a versão do Maven com o comando listado abaixo:
 
@@ -83,7 +83,7 @@ $ mvn --version
 
 Deverá aparecer em seu terminal a seguinte mensagem:
 
-![](/media/filipe/Arquivos/0-Dev/4-Tutoriais/tutorial-preparando-ambiente-java-no-linux/maven-version.png)
+![](https://github.com/lipegomes/tutorial-preparando-ambiente-java-no-linux/blob/master/maven-version.png)
 
 Observe que o comando **mvn --version**, possibilita saber a versão instalada do Maven, além do diretório aonde está instalado o Maven e também a versão do Java, idioma do sistema. Assim como outras informações relevantes sobre o sistema operacional em uso. Lembrando que, o intuito do uso do comando **mnv --version**, é simplesmente saber a versão do Maven e seu diretório de instalação, as demais informações complementam.
 
