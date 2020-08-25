@@ -4,7 +4,8 @@
 
 ## 1 - Instalação do sdkman
 
-1.1 -  Entre no site https://sdkman.io/ 
+1.1 -  Entre no site abaixo:
+https://sdkman.io/ 
 
 1.2 -  Cole o comando abaixo no terminal para instalar o sdkman, tecle enter e espere concluir a instalação, apos isso reinicie o terminal:
 
@@ -91,11 +92,46 @@ Observe que o comando **mvn --version**, possibilita saber a versão instalada d
 
 ## 3 - Instalação do IntelliJ IDEA Community
 
-3.1 - Entre no site abaixo https://www.jetbrains.com/idea/
+3.1 - Entre no site abaixo:
+https://www.jetbrains.com/idea/
 
-3.2 - Clique em download e instale a versão do IntelliJ IDEA Community referente a sua distribuição linux. Porém para facilitar, estarei utilizando a versão de empacotamento snap que pode ser utilizada na grande maioira das distribuições linux. Para habilitar o snap em seu sistema operacional, entre no link abaixo e verifique os procedimentos:
+3.2 - Clique em download e instale a versão do IntelliJ IDEA Community referente a sua distribuição linux. Porém para facilitar, estarei utilizando a versão de empacotamento snap que pode ser utilizada na grande maioira das distribuições linux. Para habilitar o snap em seu sistema operacional, entre nos links abaixo e verifique o procedimento no site da snapcraft ou siga os comandos referentes a cada distribuição listadas abaixo:
 
-https://snapcraft.io/
+**Lembrando que caso a sua distribuição não esteja listada nesse tutorial, você deve procurar em https://snapcraft.io a forma de instalar o snapd em sua distribuição linux**
+
+**Ubuntu**:
+https://snapcraft.io/docs/installing-snap-on-ubuntu
+
+```bash
+$ sudo apt update
+$ sudo apt install snapd
+```
+
+**Fedora**:
+https://snapcraft.io/docs/installing-snap-on-fedora
+
+```bash
+$ sudo dnf update
+$ sudo dnf install snapd
+```
+
+Após instalar o snapd no fedora, reinicie o sistema operacional e digite o comando abaixo para criar um link simbólico entre **/var/lib/snapd/snap** e o **/snap**:
+
+```bash
+$ sudo ln -s /var/lib/snapd/snap /snap
+```
+
+**Manjaro**:
+https://snapcraft.io/docs/installing-snap-on-manjaro-linux
+```bash
+$ sudo pacman -S snapd
+```
+
+Após instalar o snapd no manjaro, habilite o socket do snapd:
+
+```bash
+$ sudo systemctl enable --now snapd.socket
+```
 
 3.3 - Para instalar a versão snap do  IntelliJ IDEA Community, utiliza o comando abaixo:
 
