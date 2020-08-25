@@ -85,7 +85,7 @@ Deverá aparecer em seu terminal a seguinte mensagem:
 
 ![](https://github.com/lipegomes/tutorial-preparando-ambiente-java-no-linux/blob/master/maven-version.png)
 
-Observe que o comando **mvn --version**, possibilita saber a versão instalada do Maven, além do diretório aonde está instalado o Maven e também a versão do Java, idioma do sistema. Assim como outras informações relevantes sobre o sistema operacional em uso. Lembrando que, o intuito do uso do comando **mnv --version**, é simplesmente saber a versão do Maven e seu diretório de instalação, as demais informações complementam.
+Observe que o comando **mvn --version**, possibilita saber a versão instalada do Maven, além do diretório aonde está instalado o Maven e também a versão do Java, idioma do sistema. Assim como outras informações relevantes sobre o sistema operacional em uso. Lembrando que, o intuito do uso do comando **mvn --version**, é simplesmente saber a versão do Maven e seu diretório de instalação, as demais informações complementam.
 
 ------
 
