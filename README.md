@@ -97,7 +97,7 @@ https://www.jetbrains.com/idea/
 
 3.2 - Clique em download e instale a versão do IntelliJ IDEA Community referente a sua distribuição linux. Porém para facilitar, estarei utilizando a versão de empacotamento snap que pode ser utilizada na grande maioira das distribuições linux. Para habilitar o snap em seu sistema operacional, entre nos links abaixo e verifique o procedimento no site da snapcraft ou siga os comandos referentes a cada distribuição listadas abaixo:
 
-**Lembrando que caso a sua distribuição não esteja listada nesse tutorial, você deve procurar em https://snapcraft.io a forma de instalar o snapd em sua distribuição linux**
+**Lembrando que caso a sua distribuição não esteja listada nesse tutorial, você deve procurar em https://snapcraft.io a forma de instalar o snapd em sua distribuição linux.**
 
 **Ubuntu**:
 https://snapcraft.io/docs/installing-snap-on-ubuntu
