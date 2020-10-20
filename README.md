@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.com/lipegomes/https://githubcom/lipegomes/tutorial-preparando-ambiente-java-no-linux.svg)](http://hits.dwyl.com/lipegomes/https://githubcom/lipegomes/tutorial-preparando-ambiente-java-no-linux)
+
 # **Preparando ambiente para desenvolver em Java no Linux**
 
 ------
