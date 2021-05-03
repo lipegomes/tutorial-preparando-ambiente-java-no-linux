@@ -2,7 +2,7 @@
 
 ------
 
-Este tutorial foi produzido por mim com intuíto de ajudar as pessoas que est iniciando no mundo de desenvolvimento utilizando sistemas operacionais linux.
+Este tutorial foi produzido por mim com intuito de ajudar as pessoas que est iniciando no mundo de desenvolvimento utilizando sistemas operacionais linux.
 
 ## 1 - Instalação do sdkman
 
@@ -70,7 +70,10 @@ Geralmente o instalador configura a primeira versão instalada do Maven como  po
 
 Porém, por motivo de aprendizado, utilize o comando abaixo para definir a versão do Maven instalada ou para versões diferentes se desejar utilizar mais de uma versão:
 
-```bash
+```bash```
+
+
+
 $ sdk use maven 3.6.3
 ```
 
