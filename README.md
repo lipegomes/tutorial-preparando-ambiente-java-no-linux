@@ -65,7 +65,7 @@ $ sdk install maven 3.6.3
 
 2.3 - Após a instalação do Maven, utilize o comando abaixo para definir a versão do Maven instalada para uso.
 
-```bash```
+```bash
 $ sdk use maven 3.6.3
 ```
 
