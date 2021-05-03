@@ -70,7 +70,7 @@ $ sdk install maven 3.6.3
 $ sdk use maven 3.6.3
 ```
 
-![](https://github.com/lipegomes/tutorial-preparando-ambiente-java-no-linux/blob/master/imagens/imagens/sdk-maven-use.png)
+![](https://github.com/lipegomes/tutorial-preparando-ambiente-java-no-linux/blob/master/imagens/sdk-maven-use.png)
 
 Geralmente o instalador configura a primeira versão instalada do Maven como padrão, porém caso tenha a necessidade de utilizar
 uma versão especifica do Maven ou uma mais atual é sóo utilizar o comando acima mudando apenas a versão do maven.
