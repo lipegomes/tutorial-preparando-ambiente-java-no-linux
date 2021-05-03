@@ -98,19 +98,19 @@ https://www.jetbrains.com/idea/
 
 ![](https://github.com/lipegomes/tutorial-preparando-ambiente-java-no-linux/blob/master/imagens/jetbrains-toolbox.png)
 
-Clique com o botão direito do mouse sobre o arquivo e vá na opção propriedades(em português)/properties(em inglês:
+3.3 - Clique com o botão direito do mouse sobre o arquivo e vá na opção propriedades(em português)/properties(em inglês:
 
 ![](https://github.com/lipegomes/tutorial-preparando-ambiente-java-no-linux/blob/master/imagens/propriedades.png)
 
-Em seguida vá em permissões e marque a opção de executar esse arquivo como programa:
+3.4 - Em seguida vá em permissões e marque a opção de executar esse arquivo como programa:
 
 ![](https://github.com/lipegomes/tutorial-preparando-ambiente-java-no-linux/blob/master/imagens/executar.png)
 
-Após as etapas acima, clique no arquivo duas vezes para o executar. Assim irá abrir a janela na imagem abaixo:
+3.5 - Após as etapas acima, clique no arquivo duas vezes para o executar. Assim irá abrir a janela na imagem abaixo:
 
 ![](https://github.com/lipegomes/tutorial-preparando-ambiente-java-no-linux/blob/master/imagens/toolbox.png)
 
-Em seguida instale Intellij IDEA Community Edition que é a versão comunitária sendo que a mesma possui certas limitações
+3.6 - Em seguida instale Intellij IDEA Community Edition que é a versão comunitária sendo que a mesma possui certas limitações
 se comparada a versão Intellij IDEA Ultimate (versão profissional).
 
 Observe que o Jetbrains Toolbox possibilita a instalação de diversos programas, se sinta livre para instalar o que desejar
