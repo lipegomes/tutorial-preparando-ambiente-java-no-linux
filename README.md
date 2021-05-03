@@ -64,18 +64,14 @@ $ sdk install maven 3.6.3
 ```
 
 2.3 - Após a instalação do Maven, utilize o comando abaixo para definir a versão do Maven instalada para uso.
-Geralmente o instalador configura a primeira versão instalada do Maven como  podemos observar na imagem abaixo:
-
-![](https://github.com/lipegomes/tutorial-preparando-ambiente-java-no-linux/blob/master/imagens/maven-install.png)
-
-Porém, por motivo de aprendizado, utilize o comando abaixo para definir a versão do Maven instalada ou para versões diferentes se desejar utilizar mais de uma versão:
 
 ```bash```
-
-
-
 $ sdk use maven 3.6.3
 ```
+
+Geralmente o instalador configura a primeira versão instalada do Maven como podemos observar na imagem abaixo:
+
+![](https://github.com/lipegomes/tutorial-preparando-ambiente-java-no-linux/blob/master/imagens/maven-install.png)
 
 Após utilizar o comando acima, irá aparecer a confirmação em seu terminal com o número da versão utilizada:
 
