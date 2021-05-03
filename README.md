@@ -121,6 +121,9 @@ https://www.jetbrains.com/pt-br/community/education/#students
 
 ## 4 - Instalação do IntelliJ IDEA Community utilizando o Snap
 
+**Caso já tenha intaladoo o IntelliJ IDEA Community seguindo o passo a passo do item 3(utilizando o Jetbrains Toolbox), não
+há necessidade de instalar utilizando o sistema de empacotamento snap.**
+
 4.1 - Para habilitar o snap em seu sistema operacional, entre nos links abaixo e verifique o procedimento no site da snapcraft ou siga os comandos referentes a cada distribuição listadas abaixo:
 
 **Lembrando que caso a sua distribuição não esteja listada nesse tutorial, você deve procurar em https://snapcraft.io a forma de instalar o snapd em sua distribuição linux.**
