@@ -2,7 +2,7 @@
 
 ------
 
-Este tutorial foi produzido por mim com intuito de ajudar as pessoas que est iniciando no mundo de desenvolvimento utilizando sistemas operacionais linux.
+Este tutorial foi produzido por mim com intuito de ajudar as pessoas que estão iniciando no mundo de desenvolvimento java utilizando sistemas operacionais linux.
 
 ## 1 - Instalação do sdkman
 
