@@ -117,7 +117,7 @@ se comparada a versão Intellij IDEA Ultimate (versão profissional).
 
 Observe que o Jetbrains Toolbox possibilita a instalação de diversos programas, se sinta livre para instalar o que desejar
 sabendo que os programas que contem a palavra community são gratuítos porém com algumas limitações, os que não contém a palavra
-community são versões pagas (profissionais). Porém caso seja estudando universitário, há a possíbilidade de soliticar uma licença educacional a Jetbrans no link abaixo:
+community são versões pagas (profissionais). Porém caso seja estudante universitário, há a possibilidade de soliticar uma licença educacional a Jetbrans no link abaixo:
 
 https://www.jetbrains.com/pt-br/community/education/#students
 
