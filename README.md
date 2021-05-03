@@ -123,7 +123,8 @@ community são versões pagas (profissionais). Porém caso seja estudando univer
 https://www.jetbrains.com/pt-br/community/education/#students
 
 ## 4 - Instalação do IntelliJ IDEA Community utilizando o Snap
-Para habilitar o snap em seu sistema operacional, entre nos links abaixo e verifique o procedimento no site da snapcraft ou siga os comandos referentes a cada distribuição listadas abaixo:
+
+4.1 - Para habilitar o snap em seu sistema operacional, entre nos links abaixo e verifique o procedimento no site da snapcraft ou siga os comandos referentes a cada distribuição listadas abaixo:
 
 **Lembrando que caso a sua distribuição não esteja listada nesse tutorial, você deve procurar em https://snapcraft.io a forma de instalar o snapd em sua distribuição linux.**
 
@@ -161,7 +162,7 @@ Após instalar o snapd no manjaro, habilite o socket do snapd:
 $ sudo systemctl enable --now snapd.socket
 ```
 
-3.3 - Para instalar a versão snap do  IntelliJ IDEA Community, utiliza o comando abaixo:
+4.2 - Para instalar a versão snap do  IntelliJ IDEA Community, utiliza o comando abaixo:
 
 ```bash
 $ sudo snap install intellij-idea-community --classic
